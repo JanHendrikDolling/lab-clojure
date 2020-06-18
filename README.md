@@ -1,0 +1,3 @@
+# Clojure Lab
+
+Nicolai tries to learn Clojure...
